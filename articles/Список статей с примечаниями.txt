@@ -1,0 +1,42 @@
+1. Biofilm formation in milk production and processing environments; Influence on milk quality and safety.
+   https://doi.org/10.1111/j.1541-4337.2011.00183.x
+   Влияние бактерий в молоке на качество самого молока. 
+   Эти бактерии могут оставаться и собираться вместе на нержавейке.
+   Это приводит к контаминации продуктов с последующим заражением
+   патогенными микроорганизмами. 
+   Рассматриваются наиболее критичные факторы в формировании биопленки.
+2. http://dx.doi.org/10.5455/javar.2015.b47
+   Стафилококк в Бангладеше. 
+3. https://doi.org/10.3168/jds.2016-11395
+   Тоже про биопленки. 
+4. https://aem.asm.org/content/83/8/e02840-16
+   что-то про протеиназу и ее влияние на формирование биопленки
+   на нержавейки с помощью стрептококка.
+5. Biofilm models for the food industry: hot spots for plasmid transfer?
+   https://doi.org/10.1111/2049-632X.12134
+
+ https://doi.org/10.1016/j.jclepro.2016.06.078
+just a review of LifeCycleAssesment (some diagnostics instrument).
+
+http://www.webmedcentral.com/article_view/1029
+Bacteriological quality and safety of raw cow milk in Madurai, South India.
+Оценка качества молока в Мадураи, Южная Индия. Можно почерпнуть методы исследования
+молока на наличие всяких бактерий, рассказывающих дальнейший сюжет сериала.
+
+https://doi.org/10.1016/j.prevetmed.2010.03.007
+The association berween bulk tank milk analysis for raw milk 
+quality and on-farm management practices.
+Тут смотрят на то, как работа на ферме влияет на бактериологическое качество
+молока.
+
+Risk for the development of Antimicrobial Resistance (AMR) due to feeding of calves with milk containing residues of antibiotics
+https://doi.org/10.2903/j.efsa.2017.4665
+
+
+
+
+Seasonal influence on heat‐resistant proteolytic capacity of Pseudomonas lundensis and Pseudomonas fragi, predominant milk spoilers isolated from Belgian raw milk samples
+https://doi.org/10.1111/j.1462-2920.2008.01785.x
+
+Biofilm Formation in Milk Production and Processing Environments; Influence on Milk Quality and Safety
+ https://doi.org/10.1111/j.1541-4337.2011.00183.x
